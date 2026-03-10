@@ -76,6 +76,14 @@ int main() {
     return 0;
 }
 ```
+
+input file
+
+```
+t1 = a + b
+t2 = t1 - c
+```
+
 # OUTPUT
 
 <img width="1093" height="582" alt="image" src="https://github.com/user-attachments/assets/a6ac0902-5d3e-4c8d-a8c8-5a928f596b7b" />
